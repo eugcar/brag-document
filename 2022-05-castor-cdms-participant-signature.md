@@ -1,7 +1,7 @@
 # Castor CDMS Participant Signature
 
 ## Project Duration
-**June 2022 - December 2022**
+**May 2022 - December 2022**
 
 ## Project Overview
 **Context:**  
