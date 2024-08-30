@@ -2,12 +2,21 @@
 
 ## Overview
 
-This repository contains a comprehensive BRAG (Brag, Reflect, Accomplish, and Grow) document, which is a professional 
+Repository contains:
+
+### Performance reviews log file
+
+The `performance-reviews-log.md` document serves as a log of performance reviews conducted throughout my career. It 
+includes details such as the company, position, manager, and performance score for each review period.
+
+### Projects folder
+
+The `projects` folder contains a comprehensive BRAG (Brag, Reflect, Accomplish, and Grow) document, which is a professional 
 record designed to highlight significant achievements, contributions, and experiences throughout your career. 
 The BRAG document serves as a living document to track and showcase your accomplishments, providing a clear and organized 
 summary of your work that can be leveraged for performance reviews, job interviews, promotions, and career planning.
 
-## What is a BRAG Document?
+#### What is a BRAG Document?
 
 A BRAG document is a tool used to systematically document your professional accomplishments, learnings, and contributions. 
 It goes beyond a traditional resume by offering detailed accounts of specific projects, challenges faced, the role you 
@@ -18,15 +27,7 @@ played, and the impact of your work. The primary goals of a BRAG document are:
 - **Growth:** To identify areas for personal and professional growth.
 - **Preparation:** To prepare for performance reviews, salary negotiations, promotions, or job interviews with a clear record of your successes.
 
-## Purpose of This Repository
-
-This repository is intended to:
-
-1. **Centralize Your Achievements:** Keep all your documented achievements in one place, making it easier to track your career progress over time.
-2. **Provide a Template:** Serve as a template for structuring your own BRAG document entries, ensuring consistency and clarity in how accomplishments are documented.
-3. **Facilitate Career Development:** Assist in career planning by providing a clear and detailed history of your professional journey, helping to identify strengths and areas for improvement.
-
-## Structure of the BRAG Document
+#### Structure of the BRAG Document
 
 Each entry in this BRAG document follows a standardized format that includes:
 
@@ -36,6 +37,14 @@ Each entry in this BRAG document follows a standardized format that includes:
 4. **My Role and Contributions:** A detailed account of your specific contributions, including design, implementation, problem-solving, and collaboration efforts.
 5. **Outcome and Impact:** The measurable results of your work, including improvements in performance, user satisfaction, and business outcomes.
 6. **Technologies and Tools:** A list of the key technologies, frameworks, and tools used in the project.
+
+## Purpose of This Repository
+
+This repository is intended to:
+
+1. **Achievements Centralization:** Keep all your documented achievements in one place, making it easier to track your career progress over time.
+2. **Template Provider:** Serve as a template for structuring your own BRAG document entries, ensuring consistency and clarity in how accomplishments are documented.
+3. **Facilitate Career Development:** Assist in career planning by providing a clear and detailed history of your professional journey, helping to identify strengths and areas for improvement.
 
 ## Conclusion
 
