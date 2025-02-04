@@ -5,7 +5,14 @@ company, position, manager, and performance score for each review period.
 
 ## 2024
 
-### Q1
+### H2
+
+* Company: Castor
+* Position: Senior Backend Software Engineer
+* Manager: Stefano Angaran
+* Score: Exceeding Expectations
+
+### H1
 
 * Company: Castor
 * Position: Senior Backend Software Engineer
@@ -14,14 +21,14 @@ company, position, manager, and performance score for each review period.
 
 ## 2023
 
-### Q2
+### H2
 
 * Company: Castor
 * Position: Senior Backend Software Engineer
 * Manager: Stefano Angaran
 * Score: Exceeding Expectations
 
-### Q1
+### H1
 
 * Company: Castor
 * Position: Senior Backend Software Engineer
@@ -30,9 +37,15 @@ company, position, manager, and performance score for each review period.
 
 ## 2022
 
-### Q2
+### H2
 
 * Company: Castor
 * Position: Senior Backend Software Engineer
 * Manager: Stefano Angaran
 * Score: Exceeding Expectations
+
+## Companies
+
+### Castor
+
+Possible scores: Exceeding Expectations, Succeeding, Developing, Not performing
