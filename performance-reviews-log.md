@@ -3,6 +3,15 @@
 This document serves as a log of performance reviews conducted throughout my career. It includes details such as the 
 company, position, manager, and performance score for each review period.
 
+## 2026
+
+### H1
+
+* Company: Castor
+* Position: Engineering Tech Lead
+* Manager: Stefano Angaran
+* Score: 3
+
 ## 2025
 
 ### H2
