@@ -1,4 +1,4 @@
-# Study Creation Flow Optimization
+# Castor CDMS Study Creation Flow Optimization
 
 ## Project Duration
 **May 2024**
