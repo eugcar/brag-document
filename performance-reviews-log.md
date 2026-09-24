@@ -5,6 +5,14 @@ company, position, manager, and performance score for each review period.
 
 ## 2025
 
+### H2
+
+* Company: Castor
+* Position: Senior Backend Software Engineer
+* Manager: Stefano Angaran
+* Score: 4
+* Outcome: Promoted to Engineering Tech Lead
+
 ### H1
 
 * Company: Castor
